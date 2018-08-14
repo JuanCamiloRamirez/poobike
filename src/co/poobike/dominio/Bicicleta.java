@@ -6,6 +6,7 @@ public class Bicicleta {
 	private double velocidad;	
 	private int nroCambio;
 	private double cadencia;
+	/// ensayooooo cambio
 	
 	public Bicicleta() {
 		this("0", "NINGUNO");
